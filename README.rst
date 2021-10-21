@@ -1,1 +1,1 @@
-The package for adding two positive integers using recursion.
+The package for adding two non-negative integers using recursion.
